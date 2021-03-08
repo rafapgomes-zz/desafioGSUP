@@ -10,3 +10,6 @@ Escreva um programa que leia sucessivamente três números (N, k e m; k, m > 0, 
 **Saída**
 
 Para cada conjunto de três números de entrada, imprima uma linha de números especificando a ordem na qual as pessoas são escolhidas. Liste o par escolhido partindo da pessoa escolhida pelo contador do sentido horário. Os pares sucessivos são separados por vírgula (mas não deverá haver vírgula após o último escolhido).
+
+![image001](https://user-images.githubusercontent.com/70455470/110369700-86e37480-8029-11eb-98f8-4b071f03fae8.png)
+
